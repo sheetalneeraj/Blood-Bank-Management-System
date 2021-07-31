@@ -41,4 +41,15 @@ Users have to contact their allocated Blood Bank to donate blood or to have requ
 	
 
 ### Screenshots 
+### 1)
 <img src = "/images/1.jpeg">
+### 2)
+<img src = "/images/2.jpeg">
+### 3)
+<img src = "/images/3.jpeg">
+### 4)
+<img src = "/images/4.jpeg">
+### 5)
+<img src = "/images/5.jpeg">
+### 6)
+<img src = "/images/6.jpeg">
