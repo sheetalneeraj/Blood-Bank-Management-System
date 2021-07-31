@@ -1,4 +1,4 @@
-# Blood-Bank-Management-System
+# Blood-Bank-Management-System [DBMS Miniproject]
 
 Blood bank management System is a  solution for all the Blood donation Problems.This system’s access is granted only to the Administrator and Users and it provides the users a very friendly user interface.
 Admin’s functionalities are to view details, accepting/denying pending requests of a user who is registering, update mapping details and modify database.    
@@ -40,3 +40,5 @@ Users have to contact their allocated Blood Bank to donate blood or to have requ
 	8.Open home.php in browser.
 	
 
+### Screenshots 
+<img src = "/images/1.jpeg">
